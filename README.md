@@ -33,7 +33,7 @@ Request our *Team instalation package* or just download our automatic instalatio
 
 ## Manual installation
 ### Pre requirements:
-  - Python == 3.7 ( not workt in other versions for now )
+  - Python 3.7,3.8
   - Git
   - Python3-pip
 
