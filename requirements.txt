@@ -1,3 +1,4 @@
+setuptools
 psutil
 pyautogui
 tendo
