@@ -43,5 +43,5 @@ Request our *Team instalation package* or just download our automatic instalatio
   - 'git clone https://github.com/IoTCARE/client.git'
   - 'cd /opt/IoTCARE/client'
   - 'sudo pip3 install -r requirements.txt'
-  - 'sudo python3 iotcare.pyc'
+  - 'sudo python3 iotcare.py'
   - Just follow Activation process and your crontab should be updated and all necessary files will be generated.
