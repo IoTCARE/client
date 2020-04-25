@@ -33,9 +33,14 @@ Request our *Team instalation package* or just download our automatic instalatio
 
 ## Manual installation
 ### Pre requirements:
-  - Python 3.7,3.8
+  - Python
   - Git
   - Python3-pip
+
+### Suported os and python:
+  - Linux 64x - python >= 3.7
+  - Arm debian - python == 3.7
+  - Windows 10 64x - python >= 3.7
 
 # Linux
   - 'mkdir /opt/IoTCARE'
