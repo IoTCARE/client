@@ -1,0 +1,8 @@
+psutil
+pyautogui
+tendo
+GitPython
+pillow
+tcp-latency
+python-crontab
+idle-time
