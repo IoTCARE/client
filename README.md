@@ -30,7 +30,6 @@
 Request our *Team instalation package* or just download our automatic instalation from here:
   - [Linux - Debian](https://iotcare.com.br/linux_debian_install.sh)
 
-## Manual installation
 ### Pre requirements:
   - Python
   - Git
@@ -40,12 +39,3 @@ Request our *Team instalation package* or just download our automatic instalatio
   - Linux 64x - python >= 3.7
   - Arm debian - python == 3.7
   - Windows 10 64x - python >= 3.7
-
-# Linux
-  - 'mkdir /opt/IoTCARE'
-  - 'cd /opt/IoTCARE'
-  - 'git clone https://github.com/IoTCARE/client.git'
-  - 'cd /opt/IoTCARE/client'
-  - 'sudo pip3 install -r requirements.txt'
-  - 'sudo python3 iotcare.py'
-  - Just follow Activation process and your crontab should be updated and all necessary files will be generated.
