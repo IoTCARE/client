@@ -9,7 +9,6 @@
 
   - Idle duration
   - List of running processes
-  - Print Screen
   - Cpu usage
   - Memory usage
   - Disk usage
