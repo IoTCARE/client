@@ -6,3 +6,4 @@ pillow
 tcp-latency
 python-crontab
 idle-time
+requests
