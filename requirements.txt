@@ -9,3 +9,4 @@ python-crontab
 idle-time
 requests
 pyscreenshot
+logging
