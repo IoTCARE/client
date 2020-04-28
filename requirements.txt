@@ -10,3 +10,4 @@ idle-time
 requests
 pyscreenshot
 logging
+shutil
