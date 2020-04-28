@@ -9,6 +9,5 @@ python-crontab
 idle-time
 requests
 pyscreenshot
-logging
 shutil
 idleTime
